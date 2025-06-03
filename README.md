@@ -42,8 +42,6 @@
 ## 📝 Projects
 
 - 🎮 [Snake Game in React](https://github.com/tshalu63/snake-game)
-- 📄 [My Portfolio Website](https://github.com/tshalu63/portfolio)
-- 💻 [Java DSA Practice](https://github.com/tshalu63/dsa-java)
 
 ---
 
