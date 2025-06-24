@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Fake News Detection Project using Python**
 - 🌱 I’m learning **ReactJS | Java OOP | Data Structures & Algorithms**
-- 💬 Ask me about **Java, Python, GitHub, VS Code, or DSA questions**
+- 💬 Ask me about **Java, GitHub, VS Code, or DSA questions**
 - 📫 Contact me: **shalutiwari842@gmail.com**
 - ⚡ Fun fact: I love solving logic puzzles & exploring new tech trends ✨
 
@@ -19,7 +19,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
