@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shalu Tiwari</h1>
-<h3 align="center">🎓 Computer Science student | 💻 Web Developer | 🤖 AI & Data Science Enthusiast</h3>
+<h3 align="center">🎓 Computer Science student | 💻 Web Developer | 🌱 Lifelong Learner</h3>
 
 ---
 
@@ -26,7 +26,7 @@
 
 ### 🔭 Projects
 - 🎮 **Snake Game** built with React.js
-- 📝 More coming soon...
+- 📝 More beginner-friendly frontend projects coming soon...
 
 ---
 
@@ -40,11 +40,9 @@
 
 ### 📫 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/
-shalu-tiwari-8b49b3338/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/shalu-tiwari-8b49b3338" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-shalu--tiwari--8b49b3338-blue?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <!-- Add your portfolio, email, etc. here -->
 </p>
 
 ---
@@ -57,4 +55,3 @@ shalu-tiwari-8b49b3338/" target="_blank">
 
 ### 🧠 Pronouns
 - She/Her
-
