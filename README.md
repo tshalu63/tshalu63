@@ -40,7 +40,8 @@
 
 ### 📫 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/shalu-tiwari-/" target="_blank">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/
+shalu-tiwari-8b49b3338/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <!-- Add your portfolio, email, etc. here -->
