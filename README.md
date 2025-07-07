@@ -48,7 +48,8 @@
 ---
 
 ### 🌐 Connect With Me
-📌 **LinkedIn**: [shalu-tiwari-b849b9333](https://www.linkedin.com/in/shalu-tiwari-b849b9333/)
+📌 **LinkedIn**: [shalu-tiwari-b849b9333](https://www.linkedin.com/in/shalu-tiwari-8b49b3338/)
+
 
 📧 **Email**: shalutiwari842@gmail.com
 
