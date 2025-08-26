@@ -2,7 +2,7 @@
 <h3 align="center">A passionate CSE student and aspiring Software Engineer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=2nd+year+Student+@TIT+Bhopal;Learning+Java+%26+DSA;Building+projects+in+React+and+Python;Believe+in+Consistency+%26+Growth&center=true&width=500&height=45&color=F75C7E&vCenter=true&size=20">
+  <img src="https://readme-typing-svg.demolab.com/?lines=3rd+year+Student+@TIT+Bhopal;Learning+Java+%26+DSA;Building+projects+in+React+and+Python;Believe+in+Consistency+%26+Growth&center=true&width=500&height=45&color=F75C7E&vCenter=true&size=20">
 </p>
 
 ---
