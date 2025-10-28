@@ -1,58 +1,64 @@
 <h1 align="center">Hi 👋, I'm Shalu Tiwari</h1>
-<h3 align="center">A passionate CSE student and aspiring Software Engineer 🚀</h3>
+<h3 align="center">🚀 Passionate CSE Student & Aspiring Software Engineer</h3>
+
+---
+
+### 🌟 About Me  
+
+🎓 I’m a **Computer Science Engineering student** who loves exploring new technologies and building impactful projects.  
+💡 Currently focusing on **Machine Learning**, **ReactJS**, and **Java DSA**.  
+💬 Ask me about **Java**, **DSA**, **GitHub**, or **VS Code setup**.  
+📫 Reach me at **shalutiwari842@gmail.com**  
+⚡ Fun fact: I enjoy solving logic puzzles & experimenting with new tech trends!  
+
+---
+
+### 🔭 Current Focus  
+- 🧠 Building **Fake News Detection System** using **Python & Machine Learning**  
+- 💻 Developing my **ReactJS Portfolio Website**  
+- 📘 Practicing **Java OOPs** & **DSA problems daily**
+
+---
+
+### 🧰 Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=3rd+year+Student+@TIT+Bhopal;Learning+Java+%26+DSA;Building+projects+in+React+and+Python;Believe+in+Consistency+%26+Growth&center=true&width=500&height=45&color=F75C7E&vCenter=true&size=20">
+  <img src="https://skillicons.dev/icons?i=python,java,react,html,css,javascript,git,github,vscode,mysql,linux" />
 </p>
 
 ---
 
-- 🔭 I’m currently working on **Fake News Detection Project using Python**
-- 🌱 I’m learning **ReactJS | Java OOP | Data Structures & Algorithms**
-- 💬 Ask me about **Java, GitHub, VS Code, or DSA questions**
-- 📫 Contact me: **shalutiwari842@gmail.com**
-- ⚡ Fun fact: I love solving logic puzzles & exploring new tech trends ✨
-
----
-
-### 🚀 Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-</p>
-
----
-
-### 📈 GitHub Stats
+### 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tshalu63&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tshalu63&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tshalu63&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tshalu63&theme=radical" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
 
-### 🔥 My Current Projects
-- ✔️ Java Calculator
-- ✔️ Fake News Detection (ML + Python)
-- ✔️ ReactJS Portfolio Website
-- 🚧 Daily DSA Practice
+### 🚀 My Projects  
+
+| Project | Description | Tech |
+|----------|--------------|------|
+| 🧮 **Java Calculator** | A simple calculator built with Java | Java |
+| 📰 **Fake News Detection** | ML model to detect fake news using Python | Python, ML |
+| 💼 **Portfolio Website** | Personal portfolio made with ReactJS | ReactJS |
+| 🧩 **Weather App** | Real-time weather app using WeatherAPI | HTML, CSS, JS |
+| 🧠 **SMS Spam Detection** | Classifies SMS as spam or ham | Python, ML |
 
 ---
 
-### 🌐 Connect With Me
-📌 **LinkedIn**: [shalu-tiwari-b849b9333](https://www.linkedin.com/in/shalu-tiwari-8b49b3338/)
+### 🌐 Connect With Me  
 
-
-📧 **Email**: shalutiwari842@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/shalu-tiwari-b849b9333/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:shalutiwari842@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/tshalu63"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-> *"Stay consistent. Learn daily. Build your dream."* 💻🧠
+<h3 align="center">💬 "Stay consistent. Learn daily. Build your dream." 💻🧠</h3>
+
+---
