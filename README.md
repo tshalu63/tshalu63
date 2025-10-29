@@ -75,10 +75,6 @@
 > 💬 “Stay consistent. Learn daily. Build your dream.”  
 > 🌱 *Exploring tech one project at a time!*  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tshalu63&theme=onedark&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="Trophies" />
-</p>
-
 ---
 
 <p align="center">
