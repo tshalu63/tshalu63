@@ -86,3 +86,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tshalu63&label=Profile+Views&color=blueviolet&style=flat-square" />
 </p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tshalu63&theme=radical&hide_border=true)](https://git.io/streak-stats)
