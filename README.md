@@ -1,29 +1,29 @@
 <!-- HEADER SECTION -->
 <h1 align="center">✨ Hi there, I'm <a href="https://github.com/tshalu63">Shalu Tiwari</a> 👋</h1>
-<h3 align="center">🚀 CSE Student | Aspiring Software Engineer | Cloud & Security Enthusiast ☁️</h3>
+<h3 align="center">🚀 CSE Student | Aspiring Software Engineer | Cloud & Machine Learning Enthusiast ☁️🤖</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=500&lines=Building+scalable+and+secure+apps!;Exploring+Cloud+%26+Cybersecurity;Mastering+ReactJS+and+Java;Turning+ideas+into+reality+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=500&lines=Building+scalable+and+intelligent+systems!;Exploring+Cloud+%26+Machine+Learning;Mastering+ReactJS+and+Java;Turning+ideas+into+reality+💻" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🌟 About Me  
 
-👩‍💻 I'm a **Computer Science Engineering** student with a strong interest in **Cloud Computing**, **Cybersecurity**, and **Software Development**.  
-🚀 Constantly learning new technologies to build **secure, scalable, and impactful** solutions.  
-💬 Ask me about **Java**, **Cloud Architecture**, **ReactJS**, or **Machine Learning**.  
+👩‍💻 I'm a **Computer Science Engineering** student passionate about **Cloud Computing**, **Machine Learning**, and **Software Development**.  
+🚀 I enjoy creating applications that are **efficient, scalable, and meaningful.**  
+💬 Ask me about **Java**, **Machine Learning**, **ReactJS**, or **Cloud Architecture**.  
 📫 Reach me at **shalutiwari842@gmail.com**  
-🎯 Motto: *"Consistency beats talent when talent doesn’t work hard."*  
+🎯 *"Consistency beats talent when talent doesn’t work hard."*
 
 ---
 
-### 💼 What I'm Doing Right Now  
+### 💼 What I'm Working On  
 
-- ☁️ Developing **Cloud Security Analyzer** using **Flask + Azure SDK**  
-- 🔐 Enhancing my knowledge in **Zero Trust Architecture & Cloud Security**  
-- 🌐 Building my **ReactJS Portfolio Website**  
-- 🧠 Exploring **System Design** & **API Integrations**  
+- ☁️ Developing **Cloud Resource Monitoring and Security Insights** system  
+- 🤖 Building & deploying **ML models** for real-world usage  
+- 🌐 Developing my **Portfolio Website** in ReactJS  
+- 📚 Improving understanding of **System Design & Backend Engineering**  
 
 ---
 
@@ -52,12 +52,12 @@
 
 | 🌟 Project | 🧩 Description | 🛠️ Tech Stack |
 |-------------|----------------|----------------|
-| ☁️ **Cloud Security Analyzer** | Analyzes Azure resources for misconfigurations, automates vulnerability alerts, and implements Zero Trust checks | Python, Flask, Azure SDK |
-| 🛡️ **PhishGuard – AI Email Phishing Detector** | Built an ML model to detect phishing emails (94% accuracy) and deployed it as a real-time web app | Python, scikit-learn, Flask |
-| 🔐 **ZeroTrust Network Simulator** | Designed microservices enforcing Zero Trust authentication and RBAC; deployed using Docker containers | Node.js, React.js, MongoDB, JWT, Docker |
-| 📊 **Cloud-Based Attendance Management System** | Serverless attendance tracking for 500+ users with facial recognition check-ins | React.js, Node.js, AWS Lambda, DynamoDB |
-| 🧠 **SMS Spam Detector** | Classifies SMS as spam or ham using NLP | Python, scikit-learn |
-| 🧮 **Java Calculator** | Efficient GUI calculator with error handling | Java |
+| ☁️ **Cloud Security Analyzer** | Detects configuration risks & generates automated recommendations for secure cloud usage | Python, Flask, Azure SDK |
+| 🤖 **PhishGuard – Email Phishing Detection** | ML model to classify phishing emails (94% accuracy) with real-time web interface | Python, Scikit-learn, Flask |
+| 🔐 **ZeroTrust Network Simulator** | Microservices enforcing RBAC & device trust with containerized deployments | Node.js, React.js, MongoDB, Docker |
+| 📊 **Cloud-Based Attendance System** | Facial recognition based serverless attendance system for institutions | React.js, Node.js, AWS Lambda, DynamoDB |
+| 🧠 **SMS Spam Detector** | Classifies SMS into spam/ham using NLP techniques | Python, scikit-learn |
+| 🧮 **Java Calculator** | Interactive GUI-based calculator with exception-safe operations | Java |
 
 ---
 
@@ -71,10 +71,10 @@
 
 ---
 
-### ✨ Fun Zone  
+### ✨ Fun Insight  
 
-> 💬 “Stay consistent. Learn daily. Build your dream.”  
-> ☁️ *Exploring tech one secure app at a time!*  
+> 💬 *"Learn daily, build consistently, grow endlessly."*  
+> ☁️ *Exploring tech one powerful idea at a time.*  
 
 ---
 
