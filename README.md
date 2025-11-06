@@ -3,34 +3,35 @@
 <h3 align="center">🚀 CSE Student | Aspiring Software Engineer | Cloud & Machine Learning Enthusiast ☁️🤖</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=500&lines=Building+scalable+and+intelligent+systems!;Exploring+Cloud+%26+Machine+Learning;Mastering+ReactJS+and+Java;Turning+ideas+into+reality+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=500&lines=Building+Scalable+%26+Intelligent+Systems!;Exploring+Cloud+%26+Machine+Learning;Mastering+Java+%26+ReactJS;Turning+Ideas+Into+Reality+💻" />
 </p>
 
 ---
 
 ### 🌟 About Me  
 
-👩‍💻 I'm a **Computer Science Engineering** student passionate about **Cloud Computing**, **Machine Learning**, and **Software Development**.  
-🚀 I enjoy creating applications that are **efficient, scalable, and meaningful.**  
-💬 Ask me about **Java**, **Machine Learning**, **ReactJS**, or **Cloud Architecture**.  
-📫 Reach me at **shalutiwari842@gmail.com**  
-🎯 *"Consistency beats talent when talent doesn’t work hard."*
+👩‍💻 A **Computer Science Engineering** student passionate about **Cloud Computing**, **Machine Learning**, and **Software Development**.  
+🚀 I love building systems that are **efficient, scalable, and meaningful**.  
+💡 I believe in *learning by building real-world projects*.  
+📫 Reach me at: **shalutiwari842@gmail.com**  
+
+**Motto:** *"Consistency beats talent when talent doesn't work hard."* ✨  
 
 ---
 
-### 💼 What I'm Working On  
+### 💼 Currently Working On  
 
-- ☁️ Developing **Cloud Resource Monitoring and Security Insights** system  
-- 🤖 Building & deploying **ML models** for real-world usage  
-- 🌐 Developing my **Portfolio Website** in ReactJS  
-- 📚 Improving understanding of **System Design & Backend Engineering**  
+- ☁️ Cloud Resource Monitoring & Optimization System  
+- 🤖 Improving ML model deployments & MLOps knowledge  
+- 🌐 Building my **Personal Portfolio** with React  
+- 🧱 Strengthening **System Design & Backend** concepts  
 
 ---
 
 ### 🧰 Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,html,css,javascript,flask,git,github,vscode,mysql,aws,azure,linux,docker,figma,postman" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,html,css,javascript,flask,git,github,vscode,mysql,aws,azure,linux,docker,figma,postman" />
 </p>
 
 ---
@@ -38,12 +39,16 @@
 ### ⚙️ GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tshalu63&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tshalu63&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tshalu63&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshalu63&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tshalu63&theme=react-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://streak-stats.demolab.com?user=tshalu63&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tshalu63&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
@@ -52,12 +57,12 @@
 
 | 🌟 Project | 🧩 Description | 🛠️ Tech Stack |
 |-------------|----------------|----------------|
-| ☁️ **Cloud Security Analyzer** | Detects configuration risks & generates automated recommendations for secure cloud usage | Python, Flask, Azure SDK |
-| 🤖 **PhishGuard – Email Phishing Detection** | ML model to classify phishing emails (94% accuracy) with real-time web interface | Python, Scikit-learn, Flask |
-| 🔐 **ZeroTrust Network Simulator** | Microservices enforcing RBAC & device trust with containerized deployments | Node.js, React.js, MongoDB, Docker |
-| 📊 **Cloud-Based Attendance System** | Facial recognition based serverless attendance system for institutions | React.js, Node.js, AWS Lambda, DynamoDB |
-| 🧠 **SMS Spam Detector** | Classifies SMS into spam/ham using NLP techniques | Python, scikit-learn |
-| 🧮 **Java Calculator** | Interactive GUI-based calculator with exception-safe operations | Java |
+| ☁️ **Cloud Security Analyzer** | Detects misconfigurations & provides recommendations for secure cloud usage | Python · Flask · Azure SDK |
+| 🤖 **PhishGuard – Email Phishing Detection** | ML model to classify phishing emails (94% accuracy) with real-time web app | Python · Scikit-learn · Flask |
+| 🔐 **ZeroTrust Microservice Network** | Role-based access control enforcing Zero Trust principles in containerized apps | Node.js · React.js · MongoDB · Docker |
+| 📊 **Serverless Attendance System** | Face recognition attendance with cloud backend | React.js · Node.js · AWS Lambda · DynamoDB |
+| 🧠 **SMS Spam Detector** | Classifies SMS into spam/ham using NLP | Python · Scikit-learn |
+| 🧮 **Java GUI Calculator** | Simple and efficient GUI-based calculator | Java |
 
 ---
 
@@ -73,11 +78,11 @@
 
 ### ✨ Fun Insight  
 
-> 💬 *"Learn daily, build consistently, grow endlessly."*  
-> ☁️ *Exploring tech one powerful idea at a time.*  
+> 💬 *“Learn daily. Build consistently. Grow continuously.”*  
+> ☁️ *Exploring tech one meaningful project at a time.*  
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tshalu63&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=tshalu63&label=Profile+Views&color=blueviolet&style=flat-square" />
 </p>
