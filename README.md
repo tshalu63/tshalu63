@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
-<h1 align="center">✨ Hi there, I'm <a href="https://github.com/tshalu63">Shalu Tiwari</a> 👋</h1>
-<h3 align="center">🚀 CSE Student | Aspiring Software Engineer | Cloud & Machine Learning Enthusiast ☁️🤖</h3>
+<h1 align="center">✨ Hi there, I'm <a href="https://github.com/tshalu63">Shalu Tiwari</a> </h1>
+<h3 align="center">🚀 CSE Student |  Software Engineer |  Machine Learning Enthusiast ☁️🤖</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=500&lines=Building+Scalable+%26+Intelligent+Systems!;Exploring+Cloud+%26+Machine+Learning;Mastering+Java+%26+ReactJS;Turning+Ideas+Into+Reality+💻" alt="Typing animation" />
@@ -10,10 +10,9 @@
 
 ### 🌟 About Me  
 
-👩‍💻 A **Computer Science Engineering** student passionate about **Cloud Computing**, **Machine Learning**, and **Software Development**.  
+👩‍💻 A **Computer Science Engineering** student passionate about  **Machine Learning**, and **Software Development**.  
 🚀 I enjoy building systems that are **efficient**, **scalable**, and **impactful**.  
 💡 Strong believer in *learning by building real-world projects*.  
-📫 Reach me at: **[shalutiwari842@gmail.com](mailto:shalutiwari842@gmail.com)**  
 
 **Motto:** *“Consistency beats talent when talent doesn’t work hard.”* ✨  
 
