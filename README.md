@@ -21,7 +21,7 @@
 
 ### 💼 What I’m Working On  
 
-- ☁️ **Cloud Resource Monitoring & Optimization System**  
+
 - 🤖 Enhancing **ML model deployments** & learning **MLOps**  
 - 🌐 Creating my **Personal Portfolio** using React  
 - 🧱 Strengthening **System Design** & **Backend Architecture**  
@@ -53,16 +53,6 @@
 
 ---
 
-### 🚀 Featured Projects  
-
-| 🌟 Project | 🧩 Description | 🛠️ Tech Stack |
-|-------------|----------------|----------------|
-| ☁️ **Cloud Security Analyzer** | Detects cloud misconfigurations & provides security recommendations | Python · Flask · Azure SDK |
-| 🤖 **PhishGuard – Email Phishing Detection** | ML-powered phishing email classifier (94% accuracy) with live web app | Python · Scikit-learn · Flask |
-| 🔐 **ZeroTrust Microservice Network** | Role-based access control enforcing Zero Trust in microservices | Node.js · React.js · MongoDB · Docker |
-| 📊 **Serverless Attendance System** | Face recognition attendance tracker with cloud backend | React.js · Node.js · AWS Lambda · DynamoDB |
-| 🧠 **SMS Spam Detector** | NLP-based spam/ham SMS classification | Python · Scikit-learn |
-| 🧮 **Java GUI Calculator** | Lightweight GUI-based calculator for basic operations | Java |
 
 ---
 
