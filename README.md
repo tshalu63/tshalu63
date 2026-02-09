@@ -104,3 +104,14 @@
     src="https://komarev.com/ghpvc/?username=tshalu63&label=Profile+Views&color=blueviolet&style=flat-square"
   />
 </p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tshalu63&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshalu63&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tshalu63&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
+</p>
+
