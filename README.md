@@ -19,7 +19,7 @@
 
 - 🎓 Computer Science Engineering student
 - 💻 Interested in **Software Development** and **Machine Learning**
-- 🚀 Love converting concepts into **real, working projects**
+- 🚀 Love converting ideas into **real, working projects**
 - 📚 Currently focusing on **Core CS**, **DSA**, and **hands-on development**
 
 > *Consistency and practice matter more than speed.*
@@ -59,7 +59,7 @@
 
 - Building **Full-Stack MERN Projects**
 - Developing **TypeScript-based applications**
-- Implementing **ML models using Python**
+- Implementing **Machine Learning models using Python**
 - Strengthening **Data Structures & Algorithms**
 
 ---
@@ -68,19 +68,17 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=tshalu63&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=tshalu63&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"
     height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshalu63&layout=compact&theme=tokyonight&hide_border=true"
-    height="160"
+    alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=tshalu63&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshalu63&layout=compact&theme=tokyonight&hide_border=true"
     height="160"
+    alt="Top Languages"
   />
 </p>
 
@@ -102,16 +100,6 @@
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=tshalu63&label=Profile+Views&color=blueviolet&style=flat-square"
+    alt="Profile Views"
   />
 </p>
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tshalu63&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshalu63&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tshalu63&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
-</p>
-
