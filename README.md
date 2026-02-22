@@ -45,9 +45,9 @@ foundations in **Data Structures & Algorithms**, **Web Development**, and **Soft
 
 ## 📊 GitHub Activity
 
-![](https://github-readme-stats.vercel.app/api?username=tshalu63&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=tshalu63&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tshalu63&theme=dark&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=tshalu63&theme=dark&hide_border=false&cache_seconds=1800&v=1)
+![](https://streak-stats.demolab.com?user=tshalu63&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tshalu63&theme=dark&layout=compact&cache_seconds=1800&v=1)
 
 ---
 
